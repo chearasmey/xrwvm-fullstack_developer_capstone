@@ -124,3 +124,25 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contact-card {
+  border: 2px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  text-align: center;;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact-image {
+  border-right: 2px solid #003;
+}
+
+.contact-detail {
+  text-align: center;
+  color: #006eff;
+}
